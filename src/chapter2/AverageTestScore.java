@@ -3,7 +3,7 @@ package chapter2;
 import java.util.Scanner;
 
 public class AverageTestScore {
-    public static void main(String[]){
+    public static void main(String args[]){
 
         int numberOfStudents = 24;
         int numberOfTests = 4;
